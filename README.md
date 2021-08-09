@@ -1,7 +1,9 @@
 - 👋 Hi, my name is Ivan
 - 👀 I’m interested in frontend-development
 - 🌱 I’m currently learning TypeScript and Redux
-- 📫 How to reach me: Telegram: @two_by_four E-mail: kolyanet92@yandex.ru
+- 📫 How to reach me: 
+- Telegram: @two_by_four
+-  E-mail: kolyanet92@yandex.ru
 
 **languages and tools:**  
 
